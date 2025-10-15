@@ -32,10 +32,12 @@ Adoro criar soluções práticas e organizar dados de forma eficiente. 🚀
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
+## 📊 Minhas Estatísticas
 
-## 📈 Estatísticas do GitHub
-![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenaLira05&show_icons=true&theme=radical)
-![Top Langs](https://img.shields.io/badge/Top%20Languages-compact?style=flat)
+![LorenaLira05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenaLira05&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaLira05&layout=compact&theme=radical)
+
 
 ---
 
