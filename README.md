@@ -29,15 +29,5 @@ Adoro criar soluções práticas e organizar dados de forma eficiente. 🚀
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-## 📊 Minhas Estatísticas
-
-![LorenaLira05's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LorenaLira05&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorenaLira05&layout=compact&theme=radical)
-
-
----
-
 > "Transformando ideias em código e código em soluções!" 💻✨
 
