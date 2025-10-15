@@ -34,7 +34,7 @@ Adoro criar soluções práticas e organizar dados de forma eficiente. 🚀
 ---
 
 ## 📈 Estatísticas do GitHub
-![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenaLira&show_icons=true&theme=radical)
+![Lorena's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenaLira05&show_icons=true&theme=radical)
 ![Top Langs](https://img.shields.io/badge/Top%20Languages-compact?style=flat)
 
 ---
