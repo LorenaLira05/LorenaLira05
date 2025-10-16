@@ -2,7 +2,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** 💻 apaixonada por **desenvolvimento web, bancos de dados e back-end**.  
 
-Adoro criar soluções práticas e organizar dados de forma eficiente. 🚀  
+Adoro criar soluções práticas e organizar dados de forma eficiente.   
 
 ---
 
