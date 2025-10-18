@@ -2,12 +2,11 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** 💻 apaixonada por **desenvolvimento web, bancos de dados e back-end**.  
 
-Adoro criar soluções práticas e organizar dados de forma eficiente.   
+Amo criar soluções práticas e organizar dados de forma eficiente.   
 
 ---
 
 ## 🔹 Sobre mim
-- 🎓 Estudante de ADS (Análise e Desenvolvimento de Sistemas)  
 - 💡 Interesses: **Back-end, Front-end, Banco de Dados, Aplicativos**  
 - 📍 Localização: Recife, Brasil  
 - ☕ Curiosidades: Amo **cafés, museus e fotografia**  
