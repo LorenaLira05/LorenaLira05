@@ -1,13 +1,13 @@
-# Olá! Eu sou a Lorena 👋
+# Olá! Eu sou Lorena 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** 💻 apaixonada por **desenvolvimento web, bancos de dados e back-end**.  
+Sou estudante de **Sistemas** 💻 apaixonada por **desenvolvimento web, bancos de dados e back-end**.  
 
 Amo criar soluções práticas e organizar dados de forma eficiente.   
 
 ---
 
 ## 🔹 Sobre mim
-- 💡 Interesses: **Back-end, Front-end, Banco de Dados, Aplicativos**  
+- 💡 Interesses: **Back-end e Banco de Dados**  
 - 📍 Localização: Recife, Brasil  
 - ☕ Curiosidades: Amo **cafés, museus e fotografia**  
 
