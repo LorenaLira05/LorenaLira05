@@ -12,11 +12,6 @@ Amo criar soluções práticas e organizar dados de forma eficiente.
 - ☕ Curiosidades: Amo **cafés, museus e fotografia**  
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenaLira05)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 ## 🛠 Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
