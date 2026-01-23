@@ -3,7 +3,6 @@
 Sou estudante de **Sistemas** apaixonada por **desenvolvimento web, bancos de dados e back-end**.  
 
 Amo criar soluções práticas e organizar dados de forma eficiente.   
-
 ---
 
 ## Sobre mim
